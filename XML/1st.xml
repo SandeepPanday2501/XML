@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<student>
+    <name> Sandeep Pandey </name>
+       <address> Ratopul </address>
+         <gmail> pandaysandeep02@gmail.com </gmail>
+            <age> 22 </age>
+              <hobby> Making 2D animations and Photoshop. </hobby>
+</student>
